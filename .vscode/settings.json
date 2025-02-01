@@ -9,6 +9,7 @@
     "files.eol": "\n",
     "files.exclude": {
         "**/.next": true,
+        "**/dist": true,
         "**/node_modules": true,
         "**/.git": true
     },
